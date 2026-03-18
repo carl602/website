@@ -1,3 +1,8 @@
+---
+title: "First Post"
+date: 2026-03-18
+---
+
 Hey all, and welcome to this blog!! Super excited to get going here. I’ve been active in the entrepreneurship ecosystem for quite a few years now, starting with student initiatives in Munich. In the past few years it has become clear to me that my next step shall be to explore the endeavor to found a company.
 
 🤠
