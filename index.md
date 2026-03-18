@@ -1,3 +1,3 @@
-# Welcome
+# Carl’s Blog
 
-[Go to Home](./home)
+Welcome. First post soon.
