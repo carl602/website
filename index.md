@@ -1,3 +1,4 @@
-# Carl’s Blog
-
-Welcome. First post soon.
+---
+layout: home
+title: Carl’s Blog
+---
